@@ -1,0 +1,623 @@
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll.config
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.pdb
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe.config
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.rsp
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe.config
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.rsp
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Managed.Core.targets
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.AppContext.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Collections.Immutable.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Console.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Globalization.Calendars.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Http.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Sockets.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Reflection.Metadata.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.ValueTuple.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XmlDocument.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe.config
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.rsp
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe.config
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.Web.Infrastructure.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\WebGrease.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.pdb
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Helpers.resources.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Mvc.resources.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Optimization.resources.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Razor.resources.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.resources.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csprojAssemblyReference.cache
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csproj.CopyComplete
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.dll
+C:\учеба(3 курс)\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.pdb
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\obj\Debug\HelpDeskTrain.csprojAssemblyReference.cache
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\obj\Debug\HelpDeskTrain.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\obj\Debug\HelpDeskTrain.pdb
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\HelpDeskTrain.dll.config
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\HelpDeskTrain.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\HelpDeskTrain.pdb
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\csc.exe
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\csc.exe.config
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\csc.rsp
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\csi.exe
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\csi.exe.config
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\csi.rsp
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.Managed.Core.targets
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.AppContext.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Collections.Immutable.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Console.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Globalization.Calendars.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.IO.Compression.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Net.Http.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Net.Sockets.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Reflection.Metadata.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.ValueTuple.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Xml.XmlDocument.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Xml.XPath.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\vbc.exe
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\vbc.exe.config
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\vbc.rsp
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe.config
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\Antlr3.Runtime.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\EntityFramework.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\EntityFramework.SqlServer.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\Microsoft.Web.Infrastructure.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\Newtonsoft.Json.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Helpers.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Mvc.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Optimization.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Razor.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.WebPages.Deployment.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.WebPages.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.WebPages.Razor.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\WebGrease.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\EntityFramework.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\EntityFramework.SqlServer.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Helpers.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Mvc.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Optimization.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.Razor.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.WebPages.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.WebPages.Deployment.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\System.Web.WebPages.Razor.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\Newtonsoft.Json.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\Antlr3.Runtime.pdb
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\ru\System.Web.Helpers.resources.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\ru\System.Web.Mvc.resources.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\ru\System.Web.Optimization.resources.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\ru\System.Web.Razor.resources.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\ru\System.Web.WebPages.resources.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\учеба(3 курс)\HelpDeskTrainOld\HelpDeskTrain\obj\Debug\HelpDeskTrain.csproj.CopyComplete
+E:\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll.config
+E:\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.pdb
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe.config
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.rsp
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe.config
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.rsp
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.AppContext.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Collections.Immutable.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Console.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Globalization.Calendars.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Http.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Sockets.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Reflection.Metadata.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.ValueTuple.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe.config
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.rsp
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe
+E:\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe.config
+E:\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.Web.Infrastructure.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\WebGrease.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.pdb
+E:\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Mvc.resources.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Helpers.resources.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Optimization.resources.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Razor.resources.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.resources.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csprojAssemblyReference.cache
+E:\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csproj.CopyComplete
+E:\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.dll
+E:\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.pdb
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll.config
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.pdb
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe.config
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.rsp
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe.config
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.rsp
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.AppContext.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Console.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Globalization.Calendars.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Http.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Sockets.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.ValueTuple.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe.config
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.rsp
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\WebGrease.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.pdb
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Mvc.resources.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Helpers.resources.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Optimization.resources.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Razor.resources.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.resources.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csprojAssemblyReference.cache
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csproj.CopyComplete
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.dll
+D:\Visual_programs\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.pdb
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll.config
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.pdb
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe.config
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.rsp
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe.config
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.rsp
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.AppContext.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Collections.Immutable.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Console.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Globalization.Calendars.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Http.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Sockets.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Reflection.Metadata.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.ValueTuple.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe.config
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.rsp
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe.config
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.Web.Infrastructure.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\WebGrease.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.pdb
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Mvc.resources.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Helpers.resources.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Optimization.resources.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Razor.resources.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.resources.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csprojAssemblyReference.cache
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csproj.CopyComplete
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.dll
+D:\Загрузки\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.pdb
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll.config
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.pdb
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe.config
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.rsp
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe.config
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.rsp
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Managed.Core.targets
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.AppContext.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Collections.Immutable.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Console.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Globalization.Calendars.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Http.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Sockets.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.ValueTuple.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe.config
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.rsp
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe.config
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.Web.Infrastructure.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\WebGrease.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.pdb
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Mvc.resources.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Helpers.resources.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Optimization.resources.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Razor.resources.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.resources.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csprojAssemblyReference.cache
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csproj.CopyComplete
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.dll
+D:\study\3\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.pdb
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll.config
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\HelpDeskTrain.pdb
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.exe.config
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csc.rsp
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.exe.config
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\csi.rsp
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Managed.Core.targets
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.AppContext.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Collections.Immutable.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Console.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Globalization.Calendars.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Http.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Net.Sockets.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.ValueTuple.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.exe.config
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\vbc.rsp
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\roslyn\VBCSCompiler.exe.config
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.Web.Infrastructure.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\WebGrease.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\EntityFramework.SqlServer.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Mvc.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Helpers.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Optimization.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.Razor.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Deployment.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\System.Web.WebPages.Razor.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\Newtonsoft.Json.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\Antlr3.Runtime.pdb
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Mvc.resources.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Helpers.resources.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Optimization.resources.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.Razor.resources.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.resources.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csprojAssemblyReference.cache
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.csproj.CopyComplete
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.dll
+D:\study\3\1s\C#\HelpDeskTrain\HelpDeskTrain\obj\Debug\HelpDeskTrain.pdb
